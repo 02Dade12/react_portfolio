@@ -1,0 +1,45 @@
+{
+    "name": "Portfolio",
+    "projectOne": {
+        "title": "Ready S.E.T.T. Eat",
+        "description": "This is my first group project, we used 2 APIs from Edamam with to create a recipe a nutrition search.",
+        "demo": "https://tkuebler12.github.io/ProjectOne/",
+        "repo": "https://github.com/tkuebler12/ProjectOne",
+        "image": "./assets/ProjectOne.png"
+    },
+    "projectTwo": {
+        "title": "Workday Calendar",
+        "description": "This is a Workday Calendar that will save user input and update the time blocks in real time.",
+        "demo": "https://02dade12.github.io/Workday_Scheduler/",
+        "repo": "https://github.com/02Dade12/Workday_Scheduler",
+        "image": "./assets/Calendar.png"
+    },
+    "projectThree": {
+        "title": "Password Generator",
+        "description": "This is a Password Generator that will create a random password based on user specifications.",
+        "demo": "https://02dade12.github.io/BC_HW3_Passord_Generator/",
+        "repo": "https://github.com/02Dade12/BC_HW3_Passord_Generator",
+        "image": "./assets/PasswordGen.png"
+    },
+    "projectFour": {
+        "title": "MED Stocks",
+        "description": "This is my second group project, that allows a user to login in and search stocks on their dashboard.",
+        "demo": "https://medstocks.herokuapp.com/",
+        "repo": "https://github.com/02Dade12/projectMED",
+        "image": "./assets/medstocks.png"
+    },
+    "projectFive": {
+        "title": "Employee Tracker",
+        "description": "This application was built to manage and employee database using node, inquirer, and MySQL.",
+        "demo": "https://drive.google.com/file/d/1qrLFfwSNopSDLLDrabjueUG4SrFxJrRf/view",
+        "repo": "https://github.com/02Dade12/employeeTracker",
+        "image": "./assets/employeeTracker.png"
+    },
+    "projectSix": {
+        "title": "READme Generator",
+        "description": "This application will create a high-quality README that deployes with the info based on the user input.",
+        "demo": "https://drive.google.com/file/d/1_5dxbojnBLsIBZrYCvIv2zNNsRk7dyJd/view",
+        "repo": "https://github.com/02Dade12/READmeGenerator",
+        "image": "./assets/readmegen.png"
+    }
+}
