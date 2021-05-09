@@ -2,10 +2,11 @@ import React from "react";
 
 function AboutMe() {
     return (
-        <section className="container">
-            <div className="row row-cols-1">
-                <div className="col"><h1>About Me</h1></div>
-                <div className="col"><div className="clearfix">
+    <section className="container">
+        <div className="row row-cols-1">
+            <div className="col"><h1>About Me</h1></div>
+            <div className="col">
+                <div className="clearfix">
                     <img className="float-start" src="./assets/enrique.jpeg" col-md-6 float-md-end mb-3 ms-md-3 alt="Enrique" width="200px" ></img>
 
                         <p>
